@@ -6,7 +6,7 @@
       {
         "description": "Create a Pod named 'nginx-pod' with the nginx image.",
         "command": "kubectl run nginx-pod --image=docker.io/library/nginx:latest"
-      }  
+      },  
       {
         "description": "Create a Pod named 'nginx-pod' with the nginx image.",
         "command": "kubectl run nginx-pod --image=nginx"
