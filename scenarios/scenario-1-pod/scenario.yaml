@@ -1,6 +1,6 @@
 title: Pod Scenario
 description: Learn how to create a basic Pod in Kubernetes with a single container.
-duration: 10m
+duration: 10
 tasks:
   - description: Create a Pod named "nginx-pod" with the nginx image.
     command: kubectl run nginx-pod --image=nginx

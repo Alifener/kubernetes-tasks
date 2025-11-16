@@ -1,6 +1,6 @@
 title: Service Scenario
 description: Learn how to expose a Deployment using a Service.
-duration: 15m
+duration: 15
 tasks:
   - description: Create a Deployment named "nginx-deploy" with 1 replica.
     command: kubectl create deployment nginx-deploy --image=nginx
