@@ -1,23 +1,40 @@
+
 ### Single line code blocks can be copied by default
 `copy me`
 
 ### It can also be disabled
 `copying disabled`{{}}
 
-### Create a Pod with Busybox  
-`kubectl run busybox-pod --image=busybox -- sleep 3600`{{exec}}  
+### Execute a command per click
+`ls -lh`{{exec}}
 
-### Verify the Pod is running  
-`kubectl get pods`{{exec}}  
+### Send Ctrl+c before execute
+Run a blocking command:
+`sleep 1d`{{exec}}
 
-### Describe the Pod  
-`kubectl describe pod busybox-pod`{{exec}}  
+End it and run another:
+`whoami`{{exec interrupt}}
 
-### Open a shell inside the Pod  
-`kubectl exec -it busybox-pod -- sh`{{exec}}  
+### Copy multiline code block
+```
+uname -r
+pwd
+```{{copy}}
 
-### Exit the shell (if inside)  
-`exit`{{exec}}  
+### Execute multiline code block
 
-### Delete the Pod  
-`kubectl delete pod busybox-pod`{{exec}}  
+```
+uname -r
+pwd
+```{{exec}}
+
+
+### Execute multiline code block with Ctrl+c
+Run a blocking command:
+`sleep 1d`{{exec}}
+
+End it and run others:
+```
+uname -r
+whoami
+```{{exec interrupt}}
