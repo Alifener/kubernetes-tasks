@@ -1,0 +1,15 @@
+title: Service Scenario
+description: Learn how to expose a Pod or Deployment using a Service.
+duration: 15m
+tasks:
+  - description: Create a Deployment named "nginx-deploy" with 1 replica.
+    command: kubectl create deployment nginx-deploy --image=nginx
+  - description: Expose the Deployment as a ClusterIP Service on port 80.
+    command: kubectl expose deployment nginx-deploy --port=80 --type=ClusterIP
+  - description: Verify the Service is created.
+    command: kubectl get services
+  - description: Delete the Deployment and Service.
+    command: kubectl delete service nginx-deploy
+  - description: Delete the Deployment.
+    command: kubectl delete deployment nginx-deploy
+
