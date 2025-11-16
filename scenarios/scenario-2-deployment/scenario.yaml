@@ -2,12 +2,11 @@ title: Deployment Scenario
 description: Learn how to create a Deployment in Kubernetes to manage Pods.
 duration: 15m
 tasks:
-  - description: Create a Deployment named "nginx-deployment" with 2 replicas using the nginx image.
+  - description: Create a Deployment named "nginx-deployment" with 2 replicas.
     command: kubectl create deployment nginx-deployment --image=nginx --replicas=2
-  - description: Check the status of the Deployment.
+  - description: Check the Deployment status.
     command: kubectl get deployments
   - description: Scale the Deployment to 3 replicas.
     command: kubectl scale deployment nginx-deployment --replicas=3
   - description: Delete the Deployment.
     command: kubectl delete deployment nginx-deployment
-

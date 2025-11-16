@@ -8,4 +8,3 @@ tasks:
     command: kubectl get pods
   - description: Delete the Pod when done.
     command: kubectl delete pod nginx-pod
-
