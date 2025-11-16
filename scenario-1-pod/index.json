@@ -14,9 +14,9 @@
     {
       "description": "Delete the Pod when done.",
       "command": "kubectl delete pod busybox-pod"
-    },
-    "backend": {
+    }
+  ],
+  "backend": {
     "imageid": "kubernetes-kubeadm-1node"
    }
-  ]
 }
