@@ -1,3 +1,9 @@
+### Single line code blocks can be copied by default
+`copy me`
+
+### It can also be disabled
+`copying disabled`{{}}
+
 ### Create a Pod with Busybox  
 `kubectl run busybox-pod --image=busybox -- sleep 3600`{{exec}}  
 
