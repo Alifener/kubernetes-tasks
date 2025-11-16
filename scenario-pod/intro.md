@@ -1,5 +1,5 @@
 
 <br>
 
-Let's learn how users can copy or exec code blocks
+Let’s get started and create your first Pod!
 
