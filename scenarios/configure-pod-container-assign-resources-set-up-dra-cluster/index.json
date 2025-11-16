@@ -4,5 +4,15 @@
   "duration": 15,
   "backend": {
     "imageid": "kubernetes-kubeadm-1node"
+  },
+  "details": {
+    "intro": {
+      "text": "intro.md"
+    },
+    "steps": [
+      {
+        "text": "step1.md"
+      }
+    ]
   }
 }
