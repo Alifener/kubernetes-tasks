@@ -1,0 +1,8 @@
+{
+  "title": "Inject Data Application/Define Environment Variable Container",
+  "description": "Auto-generated scenario from Kubernetes task: Inject Data Application/Define Environment Variable Container",
+  "duration": 15,
+  "backend": {
+    "imageid": "kubernetes-kubeadm-1node"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "title": "Administer Cluster/Kubeadm/Configure Cgroup Driver",
+  "description": "Auto-generated scenario from Kubernetes task: Administer Cluster/Kubeadm/Configure Cgroup Driver",
+  "duration": 15,
+  "backend": {
+    "imageid": "kubernetes-kubeadm-1node"
+  }
+}

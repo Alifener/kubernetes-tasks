@@ -1,0 +1,8 @@
+{
+  "title": "Administer Cluster/Network Policy Provider/Kube Router Network Policy",
+  "description": "Auto-generated scenario from Kubernetes task: Administer Cluster/Network Policy Provider/Kube Router Network Policy",
+  "duration": 15,
+  "backend": {
+    "imageid": "kubernetes-kubeadm-1node"
+  }
+}

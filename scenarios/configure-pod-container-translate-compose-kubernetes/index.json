@@ -1,0 +1,8 @@
+{
+  "title": "Configure Pod Container/Translate Compose Kubernetes",
+  "description": "Auto-generated scenario from Kubernetes task: Configure Pod Container/Translate Compose Kubernetes",
+  "duration": 15,
+  "backend": {
+    "imageid": "kubernetes-kubeadm-1node"
+  }
+}

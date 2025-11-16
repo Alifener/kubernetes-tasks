@@ -1,0 +1,8 @@
+{
+  "title": "Administer Cluster/Safely Drain Node",
+  "description": "Auto-generated scenario from Kubernetes task: Administer Cluster/Safely Drain Node",
+  "duration": 15,
+  "backend": {
+    "imageid": "kubernetes-kubeadm-1node"
+  }
+}

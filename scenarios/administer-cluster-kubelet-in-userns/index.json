@@ -1,0 +1,8 @@
+{
+  "title": "Administer Cluster/Kubelet In Userns",
+  "description": "Auto-generated scenario from Kubernetes task: Administer Cluster/Kubelet In Userns",
+  "duration": 15,
+  "backend": {
+    "imageid": "kubernetes-kubeadm-1node"
+  }
+}

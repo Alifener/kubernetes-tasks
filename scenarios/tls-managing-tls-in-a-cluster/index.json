@@ -1,0 +1,8 @@
+{
+  "title": "Tls/Managing Tls In A Cluster",
+  "description": "Auto-generated scenario from Kubernetes task: Tls/Managing Tls In A Cluster",
+  "duration": 15,
+  "backend": {
+    "imageid": "kubernetes-kubeadm-1node"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "title": "Access Application Cluster/Port Forward Access Application Cluster",
+  "description": "Auto-generated scenario from Kubernetes task: Access Application Cluster/Port Forward Access Application Cluster",
+  "duration": 15,
+  "backend": {
+    "imageid": "kubernetes-kubeadm-1node"
+  }
+}

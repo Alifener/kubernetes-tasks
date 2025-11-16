@@ -1,0 +1,8 @@
+{
+  "title": "Tls/Manual Rotation Of Ca Certificates",
+  "description": "Auto-generated scenario from Kubernetes task: Tls/Manual Rotation Of Ca Certificates",
+  "duration": 15,
+  "backend": {
+    "imageid": "kubernetes-kubeadm-1node"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "title": "Network/Extend Service Ip Ranges",
+  "description": "Auto-generated scenario from Kubernetes task: Network/Extend Service Ip Ranges",
+  "duration": 15,
+  "backend": {
+    "imageid": "kubernetes-kubeadm-1node"
+  }
+}

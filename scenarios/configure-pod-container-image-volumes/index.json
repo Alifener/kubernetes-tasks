@@ -1,0 +1,8 @@
+{
+  "title": "Configure Pod Container/Image Volumes",
+  "description": "Auto-generated scenario from Kubernetes task: Configure Pod Container/Image Volumes",
+  "duration": 15,
+  "backend": {
+    "imageid": "kubernetes-kubeadm-1node"
+  }
+}

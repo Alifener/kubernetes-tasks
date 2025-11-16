@@ -1,0 +1,8 @@
+{
+  "title": "Extend Kubernetes/Setup Extension Api Server",
+  "description": "Auto-generated scenario from Kubernetes task: Extend Kubernetes/Setup Extension Api Server",
+  "duration": 15,
+  "backend": {
+    "imageid": "kubernetes-kubeadm-1node"
+  }
+}

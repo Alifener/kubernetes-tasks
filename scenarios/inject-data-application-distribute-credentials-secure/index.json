@@ -1,0 +1,8 @@
+{
+  "title": "Inject Data Application/Distribute Credentials Secure",
+  "description": "Auto-generated scenario from Kubernetes task: Inject Data Application/Distribute Credentials Secure",
+  "duration": 15,
+  "backend": {
+    "imageid": "kubernetes-kubeadm-1node"
+  }
+}

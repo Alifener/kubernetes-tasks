@@ -1,0 +1,8 @@
+{
+  "title": "Configure Pod Container/Assign Pods Nodes",
+  "description": "Auto-generated scenario from Kubernetes task: Configure Pod Container/Assign Pods Nodes",
+  "duration": 15,
+  "backend": {
+    "imageid": "kubernetes-kubeadm-1node"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "title": "Administer Cluster/Switch To Evented Pleg",
+  "description": "Auto-generated scenario from Kubernetes task: Administer Cluster/Switch To Evented Pleg",
+  "duration": 15,
+  "backend": {
+    "imageid": "kubernetes-kubeadm-1node"
+  }
+}

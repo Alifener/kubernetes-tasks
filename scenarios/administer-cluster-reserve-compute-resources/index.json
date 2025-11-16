@@ -1,0 +1,8 @@
+{
+  "title": "Administer Cluster/Reserve Compute Resources",
+  "description": "Auto-generated scenario from Kubernetes task: Administer Cluster/Reserve Compute Resources",
+  "duration": 15,
+  "backend": {
+    "imageid": "kubernetes-kubeadm-1node"
+  }
+}

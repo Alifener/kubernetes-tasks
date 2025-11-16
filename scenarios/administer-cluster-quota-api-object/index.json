@@ -1,0 +1,8 @@
+{
+  "title": "Administer Cluster/Quota Api Object",
+  "description": "Auto-generated scenario from Kubernetes task: Administer Cluster/Quota Api Object",
+  "duration": 15,
+  "backend": {
+    "imageid": "kubernetes-kubeadm-1node"
+  }
+}

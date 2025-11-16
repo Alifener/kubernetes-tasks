@@ -1,0 +1,8 @@
+{
+  "title": "Configure Pod Container/Security Context",
+  "description": "Auto-generated scenario from Kubernetes task: Configure Pod Container/Security Context",
+  "duration": 15,
+  "backend": {
+    "imageid": "kubernetes-kubeadm-1node"
+  }
+}

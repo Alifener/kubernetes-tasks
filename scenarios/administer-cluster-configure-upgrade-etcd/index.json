@@ -1,0 +1,8 @@
+{
+  "title": "Administer Cluster/Configure Upgrade Etcd",
+  "description": "Auto-generated scenario from Kubernetes task: Administer Cluster/Configure Upgrade Etcd",
+  "duration": 15,
+  "backend": {
+    "imageid": "kubernetes-kubeadm-1node"
+  }
+}

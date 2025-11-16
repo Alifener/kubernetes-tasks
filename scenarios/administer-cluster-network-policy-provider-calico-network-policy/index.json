@@ -1,0 +1,8 @@
+{
+  "title": "Administer Cluster/Network Policy Provider/Calico Network Policy",
+  "description": "Auto-generated scenario from Kubernetes task: Administer Cluster/Network Policy Provider/Calico Network Policy",
+  "duration": 15,
+  "backend": {
+    "imageid": "kubernetes-kubeadm-1node"
+  }
+}

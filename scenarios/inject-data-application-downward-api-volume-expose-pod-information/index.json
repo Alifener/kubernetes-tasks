@@ -1,0 +1,8 @@
+{
+  "title": "Inject Data Application/Downward Api Volume Expose Pod Information",
+  "description": "Auto-generated scenario from Kubernetes task: Inject Data Application/Downward Api Volume Expose Pod Information",
+  "duration": 15,
+  "backend": {
+    "imageid": "kubernetes-kubeadm-1node"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "title": "Job/Job With Pod To Pod Communication",
+  "description": "Auto-generated scenario from Kubernetes task: Job/Job With Pod To Pod Communication",
+  "duration": 15,
+  "backend": {
+    "imageid": "kubernetes-kubeadm-1node"
+  }
+}

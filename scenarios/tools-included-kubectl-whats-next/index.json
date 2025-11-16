@@ -1,0 +1,8 @@
+{
+  "title": "Tools/Included/Kubectl Whats Next",
+  "description": "Auto-generated scenario from Kubernetes task: Tools/Included/Kubectl Whats Next",
+  "duration": 15,
+  "backend": {
+    "imageid": "kubernetes-kubeadm-1node"
+  }
+}

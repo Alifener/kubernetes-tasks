@@ -1,0 +1,8 @@
+{
+  "title": "Administer Cluster/Migrating From Dockershim/Find Out Runtime You Use",
+  "description": "Auto-generated scenario from Kubernetes task: Administer Cluster/Migrating From Dockershim/Find Out Runtime You Use",
+  "duration": 15,
+  "backend": {
+    "imageid": "kubernetes-kubeadm-1node"
+  }
+}

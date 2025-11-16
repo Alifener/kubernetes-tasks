@@ -1,0 +1,8 @@
+{
+  "title": "Administer Cluster/Namespaces",
+  "description": "Auto-generated scenario from Kubernetes task: Administer Cluster/Namespaces",
+  "duration": 15,
+  "backend": {
+    "imageid": "kubernetes-kubeadm-1node"
+  }
+}

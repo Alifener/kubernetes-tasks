@@ -1,0 +1,8 @@
+{
+  "title": "Configure Pod Container/Configure Pod Initialization",
+  "description": "Auto-generated scenario from Kubernetes task: Configure Pod Container/Configure Pod Initialization",
+  "duration": 15,
+  "backend": {
+    "imageid": "kubernetes-kubeadm-1node"
+  }
+}

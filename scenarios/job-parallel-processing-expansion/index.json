@@ -1,0 +1,8 @@
+{
+  "title": "Job/Parallel Processing Expansion",
+  "description": "Auto-generated scenario from Kubernetes task: Job/Parallel Processing Expansion",
+  "duration": 15,
+  "backend": {
+    "imageid": "kubernetes-kubeadm-1node"
+  }
+}

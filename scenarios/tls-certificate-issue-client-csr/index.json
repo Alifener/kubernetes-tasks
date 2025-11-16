@@ -1,0 +1,8 @@
+{
+  "title": "Tls/Certificate Issue Client Csr",
+  "description": "Auto-generated scenario from Kubernetes task: Tls/Certificate Issue Client Csr",
+  "duration": 15,
+  "backend": {
+    "imageid": "kubernetes-kubeadm-1node"
+  }
+}

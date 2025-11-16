@@ -1,0 +1,8 @@
+{
+  "title": "Administer Cluster/Kubeadm/Kubeadm Reconfigure",
+  "description": "Auto-generated scenario from Kubernetes task: Administer Cluster/Kubeadm/Kubeadm Reconfigure",
+  "duration": 15,
+  "backend": {
+    "imageid": "kubernetes-kubeadm-1node"
+  }
+}

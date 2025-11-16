@@ -1,0 +1,8 @@
+{
+  "title": "Configure Pod Container/Assign Memory Resource",
+  "description": "Auto-generated scenario from Kubernetes task: Configure Pod Container/Assign Memory Resource",
+  "duration": 15,
+  "backend": {
+    "imageid": "kubernetes-kubeadm-1node"
+  }
+}

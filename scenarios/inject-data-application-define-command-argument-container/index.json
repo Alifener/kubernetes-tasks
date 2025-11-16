@@ -1,0 +1,8 @@
+{
+  "title": "Inject Data Application/Define Command Argument Container",
+  "description": "Auto-generated scenario from Kubernetes task: Inject Data Application/Define Command Argument Container",
+  "duration": 15,
+  "backend": {
+    "imageid": "kubernetes-kubeadm-1node"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "title": "Debug/Debug Application/Debug Statefulset",
+  "description": "Auto-generated scenario from Kubernetes task: Debug/Debug Application/Debug Statefulset",
+  "duration": 15,
+  "backend": {
+    "imageid": "kubernetes-kubeadm-1node"
+  }
+}

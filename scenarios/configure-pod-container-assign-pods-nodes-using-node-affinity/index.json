@@ -1,0 +1,8 @@
+{
+  "title": "Configure Pod Container/Assign Pods Nodes Using Node Affinity",
+  "description": "Auto-generated scenario from Kubernetes task: Configure Pod Container/Assign Pods Nodes Using Node Affinity",
+  "duration": 15,
+  "backend": {
+    "imageid": "kubernetes-kubeadm-1node"
+  }
+}

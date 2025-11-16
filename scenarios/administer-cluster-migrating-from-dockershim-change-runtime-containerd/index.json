@@ -1,0 +1,8 @@
+{
+  "title": "Administer Cluster/Migrating From Dockershim/Change Runtime Containerd",
+  "description": "Auto-generated scenario from Kubernetes task: Administer Cluster/Migrating From Dockershim/Change Runtime Containerd",
+  "duration": 15,
+  "backend": {
+    "imageid": "kubernetes-kubeadm-1node"
+  }
+}

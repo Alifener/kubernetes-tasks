@@ -1,0 +1,8 @@
+{
+  "title": "Extend Kubernetes/Configure Aggregation Layer",
+  "description": "Auto-generated scenario from Kubernetes task: Extend Kubernetes/Configure Aggregation Layer",
+  "duration": 15,
+  "backend": {
+    "imageid": "kubernetes-kubeadm-1node"
+  }
+}

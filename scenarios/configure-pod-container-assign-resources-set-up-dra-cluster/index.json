@@ -1,0 +1,8 @@
+{
+  "title": "Configure Pod Container/Assign Resources/Set Up Dra Cluster",
+  "description": "Auto-generated scenario from Kubernetes task: Configure Pod Container/Assign Resources/Set Up Dra Cluster",
+  "duration": 15,
+  "backend": {
+    "imageid": "kubernetes-kubeadm-1node"
+  }
+}

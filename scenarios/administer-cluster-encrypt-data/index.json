@@ -1,0 +1,8 @@
+{
+  "title": "Administer Cluster/Encrypt Data",
+  "description": "Auto-generated scenario from Kubernetes task: Administer Cluster/Encrypt Data",
+  "duration": 15,
+  "backend": {
+    "imageid": "kubernetes-kubeadm-1node"
+  }
+}

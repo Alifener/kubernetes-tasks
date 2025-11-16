@@ -1,0 +1,8 @@
+{
+  "title": "Tools/Included/Verify Kubectl",
+  "description": "Auto-generated scenario from Kubernetes task: Tools/Included/Verify Kubectl",
+  "duration": 15,
+  "backend": {
+    "imageid": "kubernetes-kubeadm-1node"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "title": "Debug/Debug Cluster/Local Debugging",
+  "description": "Auto-generated scenario from Kubernetes task: Debug/Debug Cluster/Local Debugging",
+  "duration": 15,
+  "backend": {
+    "imageid": "kubernetes-kubeadm-1node"
+  }
+}

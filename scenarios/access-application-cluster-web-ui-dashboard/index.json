@@ -1,0 +1,8 @@
+{
+  "title": "Access Application Cluster/Web Ui Dashboard",
+  "description": "Auto-generated scenario from Kubernetes task: Access Application Cluster/Web Ui Dashboard",
+  "duration": 15,
+  "backend": {
+    "imageid": "kubernetes-kubeadm-1node"
+  }
+}

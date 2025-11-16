@@ -1,0 +1,8 @@
+{
+  "title": "Configure Pod Container/Static Pod",
+  "description": "Auto-generated scenario from Kubernetes task: Configure Pod Container/Static Pod",
+  "duration": 15,
+  "backend": {
+    "imageid": "kubernetes-kubeadm-1node"
+  }
+}

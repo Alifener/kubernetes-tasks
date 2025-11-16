@@ -1,0 +1,8 @@
+{
+  "title": "Extend Kubernetes/Custom Resources/_Index",
+  "description": "Auto-generated scenario from Kubernetes task: Extend Kubernetes/Custom Resources/_Index",
+  "duration": 15,
+  "backend": {
+    "imageid": "kubernetes-kubeadm-1node"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "title": "Manage Kubernetes Objects/_Index",
+  "description": "Auto-generated scenario from Kubernetes task: Manage Kubernetes Objects/_Index",
+  "duration": 15,
+  "backend": {
+    "imageid": "kubernetes-kubeadm-1node"
+  }
+}

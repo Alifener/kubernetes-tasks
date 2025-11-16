@@ -1,0 +1,8 @@
+{
+  "title": "Administer Cluster/Guaranteed Scheduling Critical Addon Pods",
+  "description": "Auto-generated scenario from Kubernetes task: Administer Cluster/Guaranteed Scheduling Critical Addon Pods",
+  "duration": 15,
+  "backend": {
+    "imageid": "kubernetes-kubeadm-1node"
+  }
+}

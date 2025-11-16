@@ -1,0 +1,8 @@
+{
+  "title": "Administer Cluster/Kubeadm/Kubeadm Certs",
+  "description": "Auto-generated scenario from Kubernetes task: Administer Cluster/Kubeadm/Kubeadm Certs",
+  "duration": 15,
+  "backend": {
+    "imageid": "kubernetes-kubeadm-1node"
+  }
+}

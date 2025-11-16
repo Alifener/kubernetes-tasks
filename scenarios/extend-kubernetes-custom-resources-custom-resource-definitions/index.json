@@ -1,0 +1,8 @@
+{
+  "title": "Extend Kubernetes/Custom Resources/Custom Resource Definitions",
+  "description": "Auto-generated scenario from Kubernetes task: Extend Kubernetes/Custom Resources/Custom Resource Definitions",
+  "duration": 15,
+  "backend": {
+    "imageid": "kubernetes-kubeadm-1node"
+  }
+}

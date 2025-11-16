@@ -1,0 +1,8 @@
+{
+  "title": "Configure Pod Container/Resize Container Resources",
+  "description": "Auto-generated scenario from Kubernetes task: Configure Pod Container/Resize Container Resources",
+  "duration": 15,
+  "backend": {
+    "imageid": "kubernetes-kubeadm-1node"
+  }
+}

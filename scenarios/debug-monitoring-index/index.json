@@ -1,0 +1,8 @@
+{
+  "title": "Debug/Monitoring/_Index",
+  "description": "Auto-generated scenario from Kubernetes task: Debug/Monitoring/_Index",
+  "duration": 15,
+  "backend": {
+    "imageid": "kubernetes-kubeadm-1node"
+  }
+}

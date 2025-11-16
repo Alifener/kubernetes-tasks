@@ -1,0 +1,8 @@
+{
+  "title": "Job/Automated Tasks With Cron Jobs",
+  "description": "Auto-generated scenario from Kubernetes task: Job/Automated Tasks With Cron Jobs",
+  "duration": 15,
+  "backend": {
+    "imageid": "kubernetes-kubeadm-1node"
+  }
+}

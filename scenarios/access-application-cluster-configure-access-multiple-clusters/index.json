@@ -1,0 +1,8 @@
+{
+  "title": "Access Application Cluster/Configure Access Multiple Clusters",
+  "description": "Auto-generated scenario from Kubernetes task: Access Application Cluster/Configure Access Multiple Clusters",
+  "duration": 15,
+  "backend": {
+    "imageid": "kubernetes-kubeadm-1node"
+  }
+}

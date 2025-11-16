@@ -1,0 +1,8 @@
+{
+  "title": "Administer Cluster/Dns Debugging Resolution",
+  "description": "Auto-generated scenario from Kubernetes task: Administer Cluster/Dns Debugging Resolution",
+  "duration": 15,
+  "backend": {
+    "imageid": "kubernetes-kubeadm-1node"
+  }
+}

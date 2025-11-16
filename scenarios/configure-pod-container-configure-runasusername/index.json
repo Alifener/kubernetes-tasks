@@ -1,0 +1,8 @@
+{
+  "title": "Configure Pod Container/Configure Runasusername",
+  "description": "Auto-generated scenario from Kubernetes task: Configure Pod Container/Configure Runasusername",
+  "duration": 15,
+  "backend": {
+    "imageid": "kubernetes-kubeadm-1node"
+  }
+}

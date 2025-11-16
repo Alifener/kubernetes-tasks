@@ -1,0 +1,8 @@
+{
+  "title": "Debug/Debug Cluster/Audit",
+  "description": "Auto-generated scenario from Kubernetes task: Debug/Debug Cluster/Audit",
+  "duration": 15,
+  "backend": {
+    "imageid": "kubernetes-kubeadm-1node"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "title": "Administer Cluster/Manage Resources/Quota Pod Namespace",
+  "description": "Auto-generated scenario from Kubernetes task: Administer Cluster/Manage Resources/Quota Pod Namespace",
+  "duration": 15,
+  "backend": {
+    "imageid": "kubernetes-kubeadm-1node"
+  }
+}

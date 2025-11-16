@@ -1,0 +1,8 @@
+{
+  "title": "Configmap Secret/Managing Secret Using Kustomize",
+  "description": "Auto-generated scenario from Kubernetes task: Configmap Secret/Managing Secret Using Kustomize",
+  "duration": 15,
+  "backend": {
+    "imageid": "kubernetes-kubeadm-1node"
+  }
+}

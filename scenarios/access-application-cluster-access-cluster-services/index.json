@@ -1,0 +1,8 @@
+{
+  "title": "Access Application Cluster/Access Cluster Services",
+  "description": "Auto-generated scenario from Kubernetes task: Access Application Cluster/Access Cluster Services",
+  "duration": 15,
+  "backend": {
+    "imageid": "kubernetes-kubeadm-1node"
+  }
+}

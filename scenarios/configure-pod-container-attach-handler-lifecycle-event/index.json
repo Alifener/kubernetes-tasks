@@ -1,0 +1,8 @@
+{
+  "title": "Configure Pod Container/Attach Handler Lifecycle Event",
+  "description": "Auto-generated scenario from Kubernetes task: Configure Pod Container/Attach Handler Lifecycle Event",
+  "duration": 15,
+  "backend": {
+    "imageid": "kubernetes-kubeadm-1node"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "title": "Access Application Cluster/Connecting Frontend Backend",
+  "description": "Auto-generated scenario from Kubernetes task: Access Application Cluster/Connecting Frontend Backend",
+  "duration": 15,
+  "backend": {
+    "imageid": "kubernetes-kubeadm-1node"
+  }
+}

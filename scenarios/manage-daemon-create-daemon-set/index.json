@@ -1,0 +1,8 @@
+{
+  "title": "Manage Daemon/Create Daemon Set",
+  "description": "Auto-generated scenario from Kubernetes task: Manage Daemon/Create Daemon Set",
+  "duration": 15,
+  "backend": {
+    "imageid": "kubernetes-kubeadm-1node"
+  }
+}

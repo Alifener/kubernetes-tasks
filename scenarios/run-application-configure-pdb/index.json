@@ -1,0 +1,8 @@
+{
+  "title": "Run Application/Configure Pdb",
+  "description": "Auto-generated scenario from Kubernetes task: Run Application/Configure Pdb",
+  "duration": 15,
+  "backend": {
+    "imageid": "kubernetes-kubeadm-1node"
+  }
+}

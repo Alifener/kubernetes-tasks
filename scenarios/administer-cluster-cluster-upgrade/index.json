@@ -1,0 +1,8 @@
+{
+  "title": "Administer Cluster/Cluster Upgrade",
+  "description": "Auto-generated scenario from Kubernetes task: Administer Cluster/Cluster Upgrade",
+  "duration": 15,
+  "backend": {
+    "imageid": "kubernetes-kubeadm-1node"
+  }
+}

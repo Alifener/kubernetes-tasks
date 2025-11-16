@@ -1,0 +1,8 @@
+{
+  "title": "Inject Data Application/Define Interdependent Environment Variables",
+  "description": "Auto-generated scenario from Kubernetes task: Inject Data Application/Define Interdependent Environment Variables",
+  "duration": 15,
+  "backend": {
+    "imageid": "kubernetes-kubeadm-1node"
+  }
+}

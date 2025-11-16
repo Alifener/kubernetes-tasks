@@ -1,0 +1,8 @@
+{
+  "title": "Run Application/Scale Stateful Set",
+  "description": "Auto-generated scenario from Kubernetes task: Run Application/Scale Stateful Set",
+  "duration": 15,
+  "backend": {
+    "imageid": "kubernetes-kubeadm-1node"
+  }
+}

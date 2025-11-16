@@ -1,0 +1,8 @@
+{
+  "title": "Network/Validate Dual Stack",
+  "description": "Auto-generated scenario from Kubernetes task: Network/Validate Dual Stack",
+  "duration": 15,
+  "backend": {
+    "imageid": "kubernetes-kubeadm-1node"
+  }
+}

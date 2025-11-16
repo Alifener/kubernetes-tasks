@@ -1,0 +1,8 @@
+{
+  "title": "Administer Cluster/Topology Manager",
+  "description": "Auto-generated scenario from Kubernetes task: Administer Cluster/Topology Manager",
+  "duration": 15,
+  "backend": {
+    "imageid": "kubernetes-kubeadm-1node"
+  }
+}

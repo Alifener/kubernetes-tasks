@@ -1,0 +1,8 @@
+{
+  "title": "Administer Cluster/Use Cascading Deletion",
+  "description": "Auto-generated scenario from Kubernetes task: Administer Cluster/Use Cascading Deletion",
+  "duration": 15,
+  "backend": {
+    "imageid": "kubernetes-kubeadm-1node"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "title": "Administer Cluster/Securing A Cluster",
+  "description": "Auto-generated scenario from Kubernetes task: Administer Cluster/Securing A Cluster",
+  "duration": 15,
+  "backend": {
+    "imageid": "kubernetes-kubeadm-1node"
+  }
+}

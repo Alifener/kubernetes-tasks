@@ -1,0 +1,8 @@
+{
+  "title": "Configure Pod Container/Pull Image Private Registry",
+  "description": "Auto-generated scenario from Kubernetes task: Configure Pod Container/Pull Image Private Registry",
+  "duration": 15,
+  "backend": {
+    "imageid": "kubernetes-kubeadm-1node"
+  }
+}

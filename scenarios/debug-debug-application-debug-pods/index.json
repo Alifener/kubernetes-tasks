@@ -1,0 +1,8 @@
+{
+  "title": "Debug/Debug Application/Debug Pods",
+  "description": "Auto-generated scenario from Kubernetes task: Debug/Debug Application/Debug Pods",
+  "duration": 15,
+  "backend": {
+    "imageid": "kubernetes-kubeadm-1node"
+  }
+}

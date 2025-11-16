@@ -1,0 +1,8 @@
+{
+  "title": "Extend Kubernetes/Http Proxy Access Api",
+  "description": "Auto-generated scenario from Kubernetes task: Extend Kubernetes/Http Proxy Access Api",
+  "duration": 15,
+  "backend": {
+    "imageid": "kubernetes-kubeadm-1node"
+  }
+}

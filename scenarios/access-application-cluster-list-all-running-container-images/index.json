@@ -1,0 +1,8 @@
+{
+  "title": "Access Application Cluster/List All Running Container Images",
+  "description": "Auto-generated scenario from Kubernetes task: Access Application Cluster/List All Running Container Images",
+  "duration": 15,
+  "backend": {
+    "imageid": "kubernetes-kubeadm-1node"
+  }
+}

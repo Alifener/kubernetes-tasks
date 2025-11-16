@@ -1,0 +1,8 @@
+{
+  "title": "Run Application/Force Delete Stateful Set Pod",
+  "description": "Auto-generated scenario from Kubernetes task: Run Application/Force Delete Stateful Set Pod",
+  "duration": 15,
+  "backend": {
+    "imageid": "kubernetes-kubeadm-1node"
+  }
+}

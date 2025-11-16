@@ -1,0 +1,8 @@
+{
+  "title": "Debug/Debug Application/Get Shell Running Container",
+  "description": "Auto-generated scenario from Kubernetes task: Debug/Debug Application/Get Shell Running Container",
+  "duration": 15,
+  "backend": {
+    "imageid": "kubernetes-kubeadm-1node"
+  }
+}

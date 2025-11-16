@@ -1,0 +1,8 @@
+{
+  "title": "Tools/Included/Optional Kubectl Configs Pwsh",
+  "description": "Auto-generated scenario from Kubernetes task: Tools/Included/Optional Kubectl Configs Pwsh",
+  "duration": 15,
+  "backend": {
+    "imageid": "kubernetes-kubeadm-1node"
+  }
+}

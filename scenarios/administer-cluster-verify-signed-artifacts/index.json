@@ -1,0 +1,8 @@
+{
+  "title": "Administer Cluster/Verify Signed Artifacts",
+  "description": "Auto-generated scenario from Kubernetes task: Administer Cluster/Verify Signed Artifacts",
+  "duration": 15,
+  "backend": {
+    "imageid": "kubernetes-kubeadm-1node"
+  }
+}

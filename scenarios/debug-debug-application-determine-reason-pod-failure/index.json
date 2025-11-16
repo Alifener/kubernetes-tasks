@@ -1,0 +1,8 @@
+{
+  "title": "Debug/Debug Application/Determine Reason Pod Failure",
+  "description": "Auto-generated scenario from Kubernetes task: Debug/Debug Application/Determine Reason Pod Failure",
+  "duration": 15,
+  "backend": {
+    "imageid": "kubernetes-kubeadm-1node"
+  }
+}

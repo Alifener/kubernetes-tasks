@@ -1,0 +1,8 @@
+{
+  "title": "Job/Fine Parallel Processing Work Queue",
+  "description": "Auto-generated scenario from Kubernetes task: Job/Fine Parallel Processing Work Queue",
+  "duration": 15,
+  "backend": {
+    "imageid": "kubernetes-kubeadm-1node"
+  }
+}
